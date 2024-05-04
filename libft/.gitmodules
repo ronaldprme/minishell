@@ -1,0 +1,7 @@
+[submodule "42-printf"]
+	path = printf
+	url = https://github.com/Tiago-0liveira/42-printf.git
+	branch = main
+[submodule "gnl"]
+	path = gnl
+	url = https://github.com/Tiago-0liveira/42-get_next_line
